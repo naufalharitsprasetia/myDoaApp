@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyDoa</string>
+    <string name="title_activity_note_list">NoteList</string>
+</resources>
